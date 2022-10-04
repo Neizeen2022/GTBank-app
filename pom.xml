@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://http://54.209.154.64:8081/repository/GTBank-app-fe-release/</url> 
+	      <url>http://54.209.154.64:8081/repository/GTBank-app-fe-release/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http:http://54.209.154.64:8081/repository/GTBank-app-fe-snapshot/</url>
+	      <url>http://54.209.154.64:8081/repository/GTBank-app-fe-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
